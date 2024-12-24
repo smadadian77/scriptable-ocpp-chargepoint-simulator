@@ -5,5 +5,5 @@ for (let i=0; i<5; i++ ){
 
 let count = 1;
 while (count<5){
-    console.log("Davoudiiii!");
+    console.log("Davoud!");
 }
